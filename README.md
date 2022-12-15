@@ -1,3 +1,3 @@
 # SiteInformativo 
-## criação de sites informações diversas
+## Criação de site de informações diversas
 # utilizando o html e css 
